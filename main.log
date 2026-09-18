@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.17)  18 SEP 2026 23:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.17)  19 SEP 2026 00:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -301,47 +301,38 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
  [1
 
 ]
-<C:/Users/james/Downloads/Screenshot_20260916-153049.png, id=12, 819.06pt x 101
-2.78375pt>
-File: C:/Users/james/Downloads/Screenshot_20260916-153049.png Graphic file (typ
-e png)
-<use C:/Users/james/Downloads/Screenshot_20260916-153049.png>
-Package pdftex.def Info: C:/Users/james/Downloads/Screenshot_20260916-153049.pn
-g  used on input line 31.
+<Screenshot_20260916-153049.png, id=12, 819.06pt x 1012.78375pt>
+File: Screenshot_20260916-153049.png Graphic file (type png)
+<use Screenshot_20260916-153049.png>
+Package pdftex.def Info: Screenshot_20260916-153049.png  used on input line 31.
+
 (pdftex.def)             Requested size: 271.7835pt x 336.07413pt.
  [2
 
- <c:/Users/james/Downloads/Screenshot_20260916-153049.png>]
+ <./Screenshot_20260916-153049.png>]
 Kapitola 1.
 [3
 
 ] [4{c:/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 [5]
-<C:/Users/james/Pictures/Screenshots/Screenshot 2026-09-17 1656441.png, id=35, 
-255.95625pt x 215.30438pt>
-File: C:/Users/james/Pictures/Screenshots/Screenshot 2026-09-17 1656441.png Gra
-phic file (type png)
-<use C:/Users/james/Pictures/Screenshots/Screenshot 2026-09-17 1656441.png>
-Package pdftex.def Info: C:/Users/james/Pictures/Screenshots/Screenshot 2026-09
--17 1656441.png  used on input line 164.
+<Screenshot 2026-09-17 1656441.png, id=35, 255.95625pt x 215.30438pt>
+File: Screenshot 2026-09-17 1656441.png Graphic file (type png)
+<use Screenshot 2026-09-17 1656441.png>
+Package pdftex.def Info: Screenshot 2026-09-17 1656441.png  used on input line 
+164.
 (pdftex.def)             Requested size: 226.48395pt x 190.51315pt.
-<C:/Users/james/Pictures/Screenshots/Screenshot 2026-09-17 165941.png, id=36, 3
-29.73187pt x 251.94125pt>
-File: C:/Users/james/Pictures/Screenshots/Screenshot 2026-09-17 165941.png Grap
-hic file (type png)
-<use C:/Users/james/Pictures/Screenshots/Screenshot 2026-09-17 165941.png>
-Package pdftex.def Info: C:/Users/james/Pictures/Screenshots/Screenshot 2026-09
--17 165941.png  used on input line 177.
+<Screenshot 2026-09-17 165941.png, id=36, 329.73187pt x 251.94125pt>
+File: Screenshot 2026-09-17 165941.png Graphic file (type png)
+<use Screenshot 2026-09-17 165941.png>
+Package pdftex.def Info: Screenshot 2026-09-17 165941.png  used on input line 1
+77.
 (pdftex.def)             Requested size: 226.48395pt x 173.0554pt.
- [6 <c:/Users/james/Pictures/Screenshots/Screenshot 2026-09-17 1656441.png> <c:
-/Users/james/Pictures/Screenshots/Screenshot 2026-09-17 165941.png>]
-<C:/Users/james/Pictures/Screenshots/Screenshot 2026-09-17 171211.png, id=43, 2
-73.02pt x 238.39063pt>
-File: C:/Users/james/Pictures/Screenshots/Screenshot 2026-09-17 171211.png Grap
-hic file (type png)
-<use C:/Users/james/Pictures/Screenshots/Screenshot 2026-09-17 171211.png>
-Package pdftex.def Info: C:/Users/james/Pictures/Screenshots/Screenshot 2026-09
--17 171211.png  used on input line 189.
+ [6 <./Screenshot 2026-09-17 1656441.png> <./Screenshot 2026-09-17 165941.png>]
+<Screenshot 2026-09-17 171211.png, id=43, 273.02pt x 238.39063pt>
+File: Screenshot 2026-09-17 171211.png Graphic file (type png)
+<use Screenshot 2026-09-17 171211.png>
+Package pdftex.def Info: Screenshot 2026-09-17 171211.png  used on input line 1
+89.
 (pdftex.def)             Requested size: 226.48395pt x 197.75867pt.
 
 Overfull \hbox (12.4175pt too wide) in paragraph at lines 196--197
@@ -351,57 +342,45 @@ Overfull \hbox (12.4175pt too wide) in paragraph at lines 196--197
 u^^Tradnice
  []
 
-[7 <c:/Users/james/Pictures/Screenshots/Screenshot 2026-09-17 171211.png>]
+[7 <./Screenshot 2026-09-17 171211.png>]
 Overfull \hbox (8.47781pt too wide) in paragraph at lines 234--234
 []\OT1/cmr/bx/n/17.28 Geometrick^^Sy v^^Syznam n^^Sasoben^^S^^P kom-plexn^^S^^P
 ch ^^Tc^^S^^Psel 
  []
 
-<C:/Users/james/Pictures/Screenshots/Screenshot 2026-09-17 194335.png, id=48, 2
-21.32687pt x 239.89626pt>
-File: C:/Users/james/Pictures/Screenshots/Screenshot 2026-09-17 194335.png Grap
-hic file (type png)
-<use C:/Users/james/Pictures/Screenshots/Screenshot 2026-09-17 194335.png>
-Package pdftex.def Info: C:/Users/james/Pictures/Screenshots/Screenshot 2026-09
--17 194335.png  used on input line 249.
+<Screenshot 2026-09-17 194335.png, id=48, 221.32687pt x 239.89626pt>
+File: Screenshot 2026-09-17 194335.png Graphic file (type png)
+<use Screenshot 2026-09-17 194335.png>
+Package pdftex.def Info: Screenshot 2026-09-17 194335.png  used on input line 2
+49.
 (pdftex.def)             Requested size: 226.48395pt x 245.49991pt.
 [8]
 Overfull \hbox (13.57689pt too wide) detected at line 289
 []
  []
 
-[9 <c:/Users/james/Pictures/Screenshots/Screenshot 2026-09-17 194335.png>]
-<C:/Users/james/Pictures/Screenshots/Screenshot 2026-09-17 203534.png, id=56, 2
-51.94125pt x 251.94125pt>
-File: C:/Users/james/Pictures/Screenshots/Screenshot 2026-09-17 203534.png Grap
-hic file (type png)
-<use C:/Users/james/Pictures/Screenshots/Screenshot 2026-09-17 203534.png>
-Package pdftex.def Info: C:/Users/james/Pictures/Screenshots/Screenshot 2026-09
--17 203534.png  used on input line 312.
+[9 <./Screenshot 2026-09-17 194335.png>]
+<Screenshot 2026-09-17 203534.png, id=56, 251.94125pt x 251.94125pt>
+File: Screenshot 2026-09-17 203534.png Graphic file (type png)
+<use Screenshot 2026-09-17 203534.png>
+Package pdftex.def Info: Screenshot 2026-09-17 203534.png  used on input line 3
+12.
 (pdftex.def)             Requested size: 226.48395pt x 226.48361pt.
-
-[10 <c:/Users/james/Pictures/Screenshots/Screenshot 2026-09-17 203534.png>]
-<C:/Users/james/Pictures/Screenshots/Screenshot 2026-09-17 204153.png, id=61, 2
-36.38312pt x 244.41313pt>
-File: C:/Users/james/Pictures/Screenshots/Screenshot 2026-09-17 204153.png Grap
-hic file (type png)
-<use C:/Users/james/Pictures/Screenshots/Screenshot 2026-09-17 204153.png>
-Package pdftex.def Info: C:/Users/james/Pictures/Screenshots/Screenshot 2026-09
--17 204153.png  used on input line 323.
+ [10 <./Screenshot 2026-09-17 203534.png>]
+<Screenshot 2026-09-17 204153.png, id=61, 236.38312pt x 244.41313pt>
+File: Screenshot 2026-09-17 204153.png Graphic file (type png)
+<use Screenshot 2026-09-17 204153.png>
+Package pdftex.def Info: Screenshot 2026-09-17 204153.png  used on input line 3
+23.
 (pdftex.def)             Requested size: 226.48395pt x 234.18266pt.
-
-[11 <c:/Users/james/Pictures/Screenshots/Screenshot 2026-09-17 204153.png>]
-[12]
-<C:/Users/james/Pictures/Screenshots/Screenshot 2026-09-18 205004.png, id=70, 2
-57.96375pt x 242.40562pt>
-File: C:/Users/james/Pictures/Screenshots/Screenshot 2026-09-18 205004.png Grap
-hic file (type png)
-<use C:/Users/james/Pictures/Screenshots/Screenshot 2026-09-18 205004.png>
-Package pdftex.def Info: C:/Users/james/Pictures/Screenshots/Screenshot 2026-09
--18 205004.png  used on input line 403.
+ [11 <./Screenshot 2026-09-17 204153.png>] [12]
+<Screenshot 2026-09-18 205004.png, id=70, 257.96375pt x 242.40562pt>
+File: Screenshot 2026-09-18 205004.png Graphic file (type png)
+<use Screenshot 2026-09-18 205004.png>
+Package pdftex.def Info: Screenshot 2026-09-18 205004.png  used on input line 4
+03.
 (pdftex.def)             Requested size: 226.48395pt x 212.82935pt.
- [13 <c:/Users/james/Pictures/Screenshots/Screenshot 2026-09-18 205004.png>] [1
-4] (./main.aux)
+ [13 <./Screenshot 2026-09-18 205004.png>] [14] (./main.aux)
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-08-10>
@@ -409,7 +388,7 @@ L3 programming layer <2026-08-10>
  ) 
 Here is how much of TeX's memory you used:
  4695 strings out of 467099
- 78389 string characters out of 5412502
+ 76450 string characters out of 5412502
  510521 words of memory out of 5000000
  33993 multiletter control sequences out of 15000+600000
  635473 words of font info for 68 fonts, out of 8000000 for 9000
