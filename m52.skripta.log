@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.7.1)  18 SEP 2026 22:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.7.1)  18 SEP 2026 22:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -368,21 +368,21 @@ File: Screenshot 2026-09-17 203534.png Graphic file (type png)
 Package pdftex.def Info: Screenshot 2026-09-17 203534.png  used on input line 3
 12.
 (pdftex.def)             Requested size: 226.48395pt x 226.48361pt.
- [10 <./Screenshot 2026-09-17 203534.png>]
-<Screenshot 2026-09-17 204153.png, id=61, 236.38312pt x 244.41313pt>
+<Screenshot 2026-09-17 204153.png, id=57, 236.38312pt x 244.41313pt>
 File: Screenshot 2026-09-17 204153.png Graphic file (type png)
 <use Screenshot 2026-09-17 204153.png>
 Package pdftex.def Info: Screenshot 2026-09-17 204153.png  used on input line 3
-23.
+21.
 (pdftex.def)             Requested size: 226.48395pt x 234.18266pt.
- [11 <./Screenshot 2026-09-17 204153.png>] [12]
-<Screenshot 2026-09-18 205004.png, id=70, 257.96375pt x 242.40562pt>
+ [10 <./Screenshot 2026-09-17 203534.png>] [11 <./Screenshot 2026-09-17 204153.
+png>]
+<Screenshot 2026-09-18 205004.png, id=66, 257.96375pt x 242.40562pt>
 File: Screenshot 2026-09-18 205004.png Graphic file (type png)
 <use Screenshot 2026-09-18 205004.png>
 Package pdftex.def Info: Screenshot 2026-09-18 205004.png  used on input line 4
-03.
-(pdftex.def)             Requested size: 226.48395pt x 212.82935pt.
- [13 <./Screenshot 2026-09-18 205004.png>] [14] (./m52.skripta.aux)
+00.
+(pdftex.def)             Requested size: 181.18439pt x 170.26347pt.
+ [12 <./Screenshot 2026-09-18 205004.png>] [13] (./m52.skripta.aux)
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-06-18>
@@ -407,10 +407,10 @@ type1/public/amsfonts/cm/cmsy8.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/
 public/amsfonts/cm/cmti12.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/publi
 c/amsfonts/symbols/msbm10.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/publi
 c/cm-super/sfrm1200.pfb>
-Output written on m52.skripta.pdf (15 pages, 1076435 bytes).
+Output written on m52.skripta.pdf (14 pages, 1076010 bytes).
 PDF statistics:
- 126 PDF objects out of 1000 (max. 8388607)
- 70 compressed objects within 1 object stream
+ 123 PDF objects out of 1000 (max. 8388607)
+ 68 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 

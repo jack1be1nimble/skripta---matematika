@@ -12,6 +12,6 @@
 \contentsline {section}{\numberline {1.8}Polární souřadnice v rovině}{7}{}%
 \contentsline {section}{\numberline {1.9}Goniometrický tvar komplexního čísla}{8}{}%
 \contentsline {section}{\numberline {1.10}Geometrický význam násobení komplexních čísel}{8}{}%
-\contentsline {section}{\numberline {1.11}Komplexní exponenciála}{12}{}%
+\contentsline {section}{\numberline {1.11}Komplexní exponenciála}{11}{}%
 \contentsline {section}{\numberline {1.12}Trojůhelníková nerovnost}{12}{}%
-\contentsline {section}{\numberline {1.13}Úlohy -- komplexní čísla}{14}{}%
+\contentsline {section}{\numberline {1.13}Úlohy -- komplexní čísla}{13}{}%
