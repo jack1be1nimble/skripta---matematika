@@ -1,14 +1,15 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.17)  19 SEP 2026 00:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.7.1)  18 SEP 2026 22:14
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**main.tex
-(./main.tex
+**m52.skripta.tex
+(./m52.skripta.tex
 LaTeX2e <2026-06-01>
-L3 programming layer <2026-08-10>
-(c:/texlive/2026/texmf-dist/tex/latex/base/report.cls
+L3 programming layer <2026-06-18>
+(/opt/texlive/texdir/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2025/01/22 v1.4n Standard LaTeX document class
-(c:/texlive/2026/texmf-dist/tex/latex/base/size12.clo
+(/opt/texlive/texdir/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count276
@@ -24,88 +25,88 @@ File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip50
 \bibindent=\dimen150
 )
-(c:/texlive/2026/texmf-dist/tex/latex/graphics/graphicx.sty
+(/opt/texlive/texdir/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2026-05-17 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
 
-(c:/texlive/2026/texmf-dist/tex/latex/graphics/keyval.sty
+(/opt/texlive/texdir/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2026-05-17 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
 )
-(c:/texlive/2026/texmf-dist/tex/latex/graphics/graphics.sty
+(/opt/texlive/texdir/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2026-05-17 v1.4h Standard LaTeX Graphics (DPC,SPQR)
 
-(c:/texlive/2026/texmf-dist/tex/latex/graphics/trig.sty
+(/opt/texlive/texdir/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
 )
-(c:/texlive/2026/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(/opt/texlive/texdir/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 106.
 
-(c:/texlive/2026/texmf-dist/tex/latex/graphics-def/pdftex.def
+(/opt/texlive/texdir/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen151
 \Gin@req@width=\dimen152
 )
-(c:/texlive/2026/texmf-dist/tex/latex/base/inputenc.sty
+(/opt/texlive/texdir/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@prehook=\toks18
 \inpenc@posthook=\toks19
 )
-(c:/texlive/2026/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2026/09/09 v26.12 The multilingual framework for LuaLaTeX, pdfLa
-TeX and XeLaTeX
+(/opt/texlive/texdir/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2026/06/14 v26.9 The multilingual framework for LuaLaTeX, pdfLaT
+eX and XeLaTeX
 \babel@savecnt=\count285
 LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input li
-ne 2095.
+ne 2084.
 LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input li
-ne 2097.
+ne 2086.
 LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input lin
-e 2099.
+e 2088.
 LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input lin
-e 2100.
+e 2089.
 LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) 
-on input line 2101.
+on input line 2090.
 LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) 
-on input line 2103.
+on input line 2092.
 LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) 
-on input line 2128.
+on input line 2117.
 \U@D=\dimen153
 \l@unhyphenated=\language91
 
-(c:/texlive/2026/texmf-dist/tex/generic/babel/txtbabel.def)
+(/opt/texlive/texdir/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count286
 
-(c:/texlive/2026/texmf-dist/tex/generic/babel/locale/cs/babel-czech.tex)
+(/opt/texlive/texdir/texmf-dist/tex/generic/babel/locale/cs/babel-czech.tex)
 Package babel Info: Importing font and identification data for 'czech'
-(babel)             from babel-cs.ini. Reported on input line 4459.
+(babel)             from babel-cs.ini. Reported on input line 4380.
 
-(c:/texlive/2026/texmf-dist/tex/generic/babel-czech/czech.ldf
+(/opt/texlive/texdir/texmf-dist/tex/generic/babel-czech/czech.ldf
 Language: czech 2008/07/06 v3.1a Czech support from the babel system
 Package babel Info: Making " an active character on input line 172.
 \cs@wordlen=\count287
 Package babel Info: Making - an active character on input line 226.
 ))
-(c:/texlive/2026/texmf-dist/tex/latex/amsmath/amsmath.sty
+(/opt/texlive/texdir/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2026/05/19 v2.18d AMS math features
 \@mathmargin=\skip51
 
 For additional information on amsmath, use the `?' option.
-(c:/texlive/2026/texmf-dist/tex/latex/amsmath/amstext.sty
+(/opt/texlive/texdir/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2024/11/17 v2.01 AMS text
 
-(c:/texlive/2026/texmf-dist/tex/latex/amsmath/amsgen.sty
+(/opt/texlive/texdir/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks20
 \ex@=\dimen154
 ))
-(c:/texlive/2026/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(/opt/texlive/texdir/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen155
 )
-(c:/texlive/2026/texmf-dist/tex/latex/amsmath/amsopn.sty
+(/opt/texlive/texdir/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count288
@@ -156,10 +157,10 @@ LaTeX Info: Redefining \Relbar on input line 970.
 LaTeX Info: Redefining \[ on input line 2965.
 LaTeX Info: Redefining \] on input line 2966.
 )
-(c:/texlive/2026/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/opt/texlive/texdir/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(c:/texlive/2026/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+(/opt/texlive/texdir/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
@@ -167,7 +168,7 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-(c:/texlive/2026/texmf-dist/tex/latex/amscls/amsthm.sty
+(/opt/texlive/texdir/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
 \thm@style=\toks25
 \thm@bodyfont=\toks26
@@ -179,13 +180,13 @@ Package: amsthm 2020/05/29 v2.20.6
 \thm@headsep=\skip56
 \dth@everypar=\toks30
 )
-(c:/texlive/2026/texmf-dist/tex/latex/geometry/geometry.sty
+(/opt/texlive/texdir/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2026/03/07 v6.0 Page Geometry
 
-(c:/texlive/2026/texmf-dist/tex/generic/iftex/ifvtex.sty
+(/opt/texlive/texdir/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
-(c:/texlive/2026/texmf-dist/tex/generic/iftex/iftex.sty
+(/opt/texlive/texdir/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 ))
 \Gm@cnth=\count300
@@ -201,15 +202,15 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \Gm@layoutvoffset=\dimen170
 \Gm@dimlist=\toks31
 )
-(c:/texlive/2026/texmf-dist/tex/latex/l3kernel/l3backend-pdftex.def
-File: l3backend-pdftex.def 2026-08-10 L3 backend support: PDF output (pdfTeX)
+(/opt/texlive/texdir/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2026-02-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count303
 )
-(./main.aux
+(./m52.skripta.aux
 Package babel Info: 'czech' activates 'czech' shorthands.
 (babel)             Reported on input line 6.
 )
-\openout1 = `main.aux'.
+\openout1 = `m52.skripta.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
@@ -225,7 +226,8 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
- (c:/texlive/2026/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+
+(/opt/texlive/texdir/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count304
 \scratchdimen=\dimen171
@@ -238,12 +240,12 @@ LaTeX Font Info:    ... okay on input line 17.
 \MPnumerator=\count308
 \makeMPintoPDFobject=\count309
 \everyMPtoPDFconversion=\toks33
-) (c:/texlive/2026/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+) (/opt/texlive/texdir/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(c:/texlive/2026/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(/opt/texlive/texdir/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
@@ -284,19 +286,19 @@ e
 Package babel Info: Main language set to 'czech'.
 [1
 
-{c:/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./main.toc
+{/opt/texlive/texdir/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+(./m52.skripta.toc
 LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
-
-(c:/texlive/2026/texmf-dist/tex/latex/amsfonts/umsa.fd
+ (/opt/texlive/texdir/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
 
-(c:/texlive/2026/texmf-dist/tex/latex/amsfonts/umsb.fd
+(/opt/texlive/texdir/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ))
 \tf@toc=\write3
-\openout3 = `main.toc'.
+\openout3 = `m52.skripta.toc'.
 
  [1
 
@@ -313,8 +315,8 @@ Package pdftex.def Info: Screenshot_20260916-153049.png  used on input line 31.
 Kapitola 1.
 [3
 
-] [4{c:/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-[5]
+] [4{/opt/texlive/texdir/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+ [5]
 <Screenshot 2026-09-17 1656441.png, id=35, 255.95625pt x 215.30438pt>
 File: Screenshot 2026-09-17 1656441.png Graphic file (type png)
 <use Screenshot 2026-09-17 1656441.png>
@@ -380,31 +382,32 @@ File: Screenshot 2026-09-18 205004.png Graphic file (type png)
 Package pdftex.def Info: Screenshot 2026-09-18 205004.png  used on input line 4
 03.
 (pdftex.def)             Requested size: 226.48395pt x 212.82935pt.
- [13 <./Screenshot 2026-09-18 205004.png>] [14] (./main.aux)
+ [13 <./Screenshot 2026-09-18 205004.png>] [14] (./m52.skripta.aux)
  ***********
 LaTeX2e <2026-06-01>
-L3 programming layer <2026-08-10>
+L3 programming layer <2026-06-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 4695 strings out of 467099
- 76450 string characters out of 5412502
- 510521 words of memory out of 5000000
- 33993 multiletter control sequences out of 15000+600000
+ 4515 strings out of 467168
+ 70573 string characters out of 5411585
+ 508277 words of memory out of 5000000
+ 33743 multiletter control sequences out of 15000+600000
  635473 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,11n,65p,1042b,241s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/tex
-live/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2026
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2026/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2026/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr8.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmsy10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.p
-fb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><c:/te
-xlive/2026/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><c:/texliv
-e/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on main.pdf (15 pages, 1076447 bytes).
+ 57i,11n,65p,1049b,241s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></o
+pt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></opt/te
+xlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></opt/texlive/
+texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></opt/texlive/texdir
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></opt/texlive/texdir/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></opt/texlive/texdir/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmsy10.pfb></opt/texlive/texdir/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmsy8.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmti12.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/publi
+c/amsfonts/symbols/msbm10.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/publi
+c/cm-super/sfrm1200.pfb>
+Output written on m52.skripta.pdf (15 pages, 1076435 bytes).
 PDF statistics:
  126 PDF objects out of 1000 (max. 8388607)
  70 compressed objects within 1 object stream
