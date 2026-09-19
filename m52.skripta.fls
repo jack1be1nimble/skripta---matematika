@@ -59,8 +59,22 @@ INPUT /opt/texlive/texdir/texmf-dist/tex/generic/iftex/ifvtex.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/iftex/ifvtex.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/iftex/iftex.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT /opt/texlive/texdir/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT /opt/texlive/texdir/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT /opt/texlive/texdir/texmf-dist/tex/latex/tasks/tasks.sty
+INPUT /opt/texlive/texdir/texmf-dist/tex/latex/tasks/tasks.sty
+INPUT /opt/texlive/texdir/texmf-dist/tex/latex/l3kernel/expl3.sty
+INPUT /opt/texlive/texdir/texmf-dist/tex/latex/l3kernel/expl3.sty
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /opt/texlive/texdir/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+INPUT /opt/texlive/texdir/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+INPUT /opt/texlive/texdir/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+INPUT /opt/texlive/texdir/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+INPUT /opt/texlive/texdir/texmf-dist/tex/latex/tasks/tasks.cfg
+INPUT /opt/texlive/texdir/texmf-dist/tex/latex/tasks/tasks.cfg
+INPUT /opt/texlive/texdir/texmf-dist/tex/latex/tools/multicol.sty
+INPUT /opt/texlive/texdir/texmf-dist/tex/latex/tools/multicol.sty
 INPUT ./m52.skripta.aux
 INPUT ./m52.skripta.aux
 INPUT m52.skripta.aux
@@ -153,14 +167,27 @@ INPUT ./Screenshot 2026-09-18 205004.png
 INPUT ./Screenshot 2026-09-18 205004.png
 INPUT ./Screenshot 2026-09-18 205004.png
 INPUT ./Screenshot 2026-09-18 205004.png
+INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
+INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/jknappen/ec/tcrm1095.tfm
 INPUT m52.skripta.aux
+INPUT /opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT /opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 INPUT /opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
 INPUT /opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb
+INPUT /opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT /opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb
+INPUT /opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb
 INPUT /opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
 INPUT /opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb
 INPUT /opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb
 INPUT /opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb
 INPUT /opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb

@@ -1,10 +1,14 @@
 \documentclass[12pt,a4paper]{report}
-\usepackage{graphicx} % Required for inserting images
+\usepackage{graphicx}
 \usepackage[utf8]{inputenc}
 \usepackage[czech]{babel}
 \usepackage{amsmath,amssymb,amsthm}
 \usepackage{geometry}
+\usepackage{enumitem}
+\usepackage{tasks}
 \geometry{margin=1in}
+\usepackage{multicol}
+
 
 \title{M52}
 \author{James Curren Bryan Barnard}
@@ -63,7 +67,7 @@
 	
 	\subsection{Mocniny imaginární jednotky}
 	
-	Mocniny $i$ se cyklicky opakují ($n\in\mathbb{N}$):
+	Mocniny $i$ se cyklicky opakují ($n\in\mathbb{Z}$):
 	$$i^1=i=i^{4n-3}$$
 	$$i^2=-1=i^{4n-2}$$
 	$$i^3=-i=i^{4n-1}$$
@@ -407,8 +411,61 @@
 	\section{Úlohy -- komplexní čísla}
 	
 	
+	\subsection{Mocniny, součet a součin imaginární jednotky}
+	
+	\begin{enumerate}[label=\textbf{\arabic{subsection}.\arabic*.}]
+		\item Určete hodnotu následujících mocnin imaginární jednotky:
+		\begin{tasks}(7)
+			\task $i^3$
+			\task $i^{13}$
+			\task $i^{23}$
+			\task $i^{43}$
+			\task $i^{0}$
+			\task $i^{-2}$
+			\task $i^{-9}$
+		\end{tasks}
+		
+		
+		\item Vypočítejte:
+		\begin{tasks}(4)
+			\task $i^3 + i^{-13} - i^{-9}$
+			\task $i\cdot i^{2}\cdot i^{3}\cdot i^{4}$
+			\task $i^{5}\cdot i^{6}\cdot i^{7}\cdot i^{8}$
+			\task $i\cdot i^{2} {\cdot} \dots {\cdot} i^{48}\cdot i^{49}$
+		\end{tasks}
+		
+		
+	\end{enumerate}
 	
 	
+	\subsection{Postup a řešení}
 	
+	{\small
+		\noindent\textbf{Úloha 1.1}\\
+		Mocniny $i$ určujeme na základě periody 4 (viz 1.2.1):
+		\begin{multicols}{2}
+			\begin{itemize}[leftmargin=*, itemsep=2pt]
+				\item[\textbf{a)}] $i^3 = i^{4-1} = -i$
+				\item[\textbf{b)}] $i^{13} = i^{4\cdot4-3} = i^{4-3} = i$
+				\item[\textbf{c)}] $i^{23} = i^{4\cdot6-1} = i^{4-1} = -i$
+				\item[\textbf{d)}] $i^{43} = i^{4\cdot11-1} = i^{4-1} = -i$
+				\item[\textbf{e)}] $i^0 = 1$ (z definice nulté mocniny),\\ nebo $i^{4\cdot0} = i^{4} = 1$
+				\item[\textbf{f)}] $i^{-2} = \frac{1}{i^2} = \frac{1}{i^{4-2}} = \frac{1}{-1} = -1$
+				\item[\textbf{g)}] $i^{-9} = i^{4\cdot(-2)-1} = i^{4-1} = -i$
+			\end{itemize}
+		\end{multicols}
+		
+				
+				\bigskip
+				
+				\noindent\textbf{Úloha 1.2}\\
+				Při součtu nejprve převedeme na základní tvar:
+				\begin{itemize}[leftmargin=*, itemsep=8pt]
+					\item[\textbf{a)}] $i^3 + i^{-13} - i^{-9} = i^{4-1} + i^{4\cdot(-3)-1} - i^{4\cdot(-2)-1} = -i + (-i) - (-i) = -i$
+					\item[\textbf{b)}] $i \cdot i^2 \cdot i^3 \cdot i^4 = i^{1+2+3+4} = i^{10} = i^{4\cdot3-2} = -1$
+					\item[\textbf{c)}] $i^5 \cdot i^6 \cdot i^7 \cdot i^8 = i^{4}(i \cdot i^2 \cdot i^3 \cdot i^4) = i^{4}\cdot(-1) = -1$
+					\item[\textbf{d)}] Pomocí úloh b) a c) můžeme odvodit: $i\cdot i^{2} {\cdot} \dots {\cdot} i^{48}\cdot i^{49} = (i\cdot i^{2} {\cdot} \dots {\cdot} i^{48})\cdot i^{49} =\\ = i^{4\cdot0}(i \cdot i^2 \cdot i^3 \cdot i^4)\cdot i^{4\cdot1}(i \cdot i^2 \cdot i^3 \cdot i^4){\cdot}\dots{\cdot}i^{4\cdot11}(i \cdot i^2 \cdot i^3 \cdot i^4)\cdot i^{49} = (i \cdot i^2 \cdot i^3 \cdot i^4)^{12}\cdot i^{49} = (-1)^{12}\cdot i^{49} =\\ = 1\cdot i^{4\cdot13-3} = i$
+				\end{itemize}
+	}
 	
 \end{document}

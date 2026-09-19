@@ -15,3 +15,5 @@
 \contentsline {section}{\numberline {1.11}Komplexní exponenciála}{11}{}%
 \contentsline {section}{\numberline {1.12}Trojůhelníková nerovnost}{12}{}%
 \contentsline {section}{\numberline {1.13}Úlohy -- komplexní čísla}{13}{}%
+\contentsline {subsection}{\numberline {1.13.1}Mocniny, součet a součin imaginární jednotky}{13}{}%
+\contentsline {subsection}{\numberline {1.13.2}Postup a řešení}{13}{}%
