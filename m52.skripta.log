@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.17)  19 SEP 2026 00:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.17)  19 SEP 2026 14:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -201,44 +201,169 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \Gm@layoutvoffset=\dimen170
 \Gm@dimlist=\toks31
 )
+(c:/texlive/2026/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\labelindent=\skip57
+\enit@outerparindent=\dimen171
+\enit@toks=\toks32
+\enit@inbox=\box55
+\enit@count@id=\count303
+\enitdp@description=\count304
+)
+(c:/texlive/2026/texmf-dist/tex/latex/tasks/tasks.sty
+(c:/texlive/2026/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2026-08-10 L3 programming layer (loader) 
+
 (c:/texlive/2026/texmf-dist/tex/latex/l3kernel/l3backend-pdftex.def
 File: l3backend-pdftex.def 2026-08-10 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count303
+\l__color_backend_stack_int=\count305
+))
+(c:/texlive/2026/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2025-10-09 L3 Experimental document command parser
 )
-(./m52.skripta.aux
+(c:/texlive/2026/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+Package: xtemplate 2025-10-09 L3 Experimental prototype document functions
+)
+Package: tasks 2022/01/08 v1.4a lists with columns filled horizontally
+\g__tasks_total_items_int=\count306
+\l__tasks_columns_int=\count307
+\g__tasks_rows_int=\count308
+\g__tasks_current_col_num_int=\count309
+\g__tasks_current_row_num_int=\count310
+\l__tasks_item_columns_int=\count311
+\g__tasks_env_int=\count312
+\l__tasks_start_int=\count313
+\l__tasks_item_indent_dim=\dimen172
+\l__tasks_item_default_indent_dim=\dimen173
+\l__tasks_item_width_dim=\dimen174
+\l__tasks_label_width_dim=\dimen175
+\l__tasks_label_default_width_dim=\dimen176
+\l__tasks_label_offset_dim=\dimen177
+\l__tasks_label_default_offset_dim=\dimen178
+\l__tasks_column_sep_dim=\dimen179
+\l__tasks_correction_dim=\dimen180
+\l__tasks_full_width_dim=\dimen181
+\l__tasks_after_item_skip=\skip58
+\l__tasks_custom_after_item_skip=\skip59
+\l__tasks_before_list_skip=\skip60
+\l__tasks_after_list_skip=\skip61
+\l__tasks_item_coffin=\box56
+\l__tasks_label_coffin=\box57
+\c@task=\count314
+\l__tasks_tmpa_int=\count315
+\l__tasks_tmpb_int=\count316
+\l__tasks_tmpa_coffin=\box58
+\l__tasks_tmpa_box=\box59
+
+LaTeX template Info: Declaring template type 'tasks' taking 3 argument(s) on
+(template)           line 450.
+
+
+(c:/texlive/2026/texmf-dist/tex/latex/tasks/tasks.cfg))
+(c:/texlive/2026/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2025/10/21 v2.0b multicolumn formatting (FMi)
+\c@tracingmulticols=\count317
+\mult@box=\box60
+\multicol@leftmargin=\dimen182
+\c@unbalance=\count318
+\c@collectmore=\count319
+\doublecol@number=\count320
+\multicoltolerance=\count321
+\multicolpretolerance=\count322
+\full@width=\dimen183
+\page@free=\dimen184
+\premulticols=\dimen185
+\postmulticols=\dimen186
+\multicolsep=\skip62
+\multicolbaselineskip=\skip63
+\partial@page=\box61
+\last@line=\box62
+\mc@boxedresult=\box63
+\maxbalancingoverflow=\dimen187
+\mult@rightbox=\box64
+\mult@grightbox=\box65
+\mult@firstbox=\box66
+\mult@gfirstbox=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\c@minrows=\count323
+\c@columnbadness=\count324
+\c@finalcolumnbadness=\count325
+\last@try=\dimen188
+\multicolovershoot=\dimen189
+\multicolundershoot=\dimen190
+\mult@nat@firstbox=\box104
+\colbreak@box=\box105
+\mc@col@check@num=\count326
+\g__mc_curr_col_int=\count327
+) (./m52.skripta.aux
 Package babel Info: 'czech' activates 'czech' shorthands.
 (babel)             Reported on input line 6.
 )
 \openout1 = `m52.skripta.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
 
 (c:/texlive/2026/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count304
-\scratchdimen=\dimen171
-\scratchbox=\box55
-\nofMPsegments=\count305
-\nofMParguments=\count306
-\everyMPshowfont=\toks32
-\MPscratchCnt=\count307
-\MPscratchDim=\dimen172
-\MPnumerator=\count308
-\makeMPintoPDFobject=\count309
-\everyMPtoPDFconversion=\toks33
+\scratchcounter=\count328
+\scratchdimen=\dimen191
+\scratchbox=\box106
+\nofMPsegments=\count329
+\nofMParguments=\count330
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count331
+\MPscratchDim=\dimen192
+\MPnumerator=\count332
+\makeMPintoPDFobject=\count333
+\everyMPtoPDFconversion=\toks34
 ) (c:/texlive/2026/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -305,7 +430,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 <Screenshot_20260916-153049.png, id=12, 819.06pt x 1012.78375pt>
 File: Screenshot_20260916-153049.png Graphic file (type png)
 <use Screenshot_20260916-153049.png>
-Package pdftex.def Info: Screenshot_20260916-153049.png  used on input line 31.
+Package pdftex.def Info: Screenshot_20260916-153049.png  used on input line 35.
 
 (pdftex.def)             Requested size: 271.7835pt x 336.07413pt.
  [2
@@ -320,23 +445,23 @@ Kapitola 1.
 File: Screenshot 2026-09-17 1656441.png Graphic file (type png)
 <use Screenshot 2026-09-17 1656441.png>
 Package pdftex.def Info: Screenshot 2026-09-17 1656441.png  used on input line 
-164.
+168.
 (pdftex.def)             Requested size: 226.48395pt x 190.51315pt.
 <Screenshot 2026-09-17 165941.png, id=36, 329.73187pt x 251.94125pt>
 File: Screenshot 2026-09-17 165941.png Graphic file (type png)
 <use Screenshot 2026-09-17 165941.png>
 Package pdftex.def Info: Screenshot 2026-09-17 165941.png  used on input line 1
-77.
+81.
 (pdftex.def)             Requested size: 226.48395pt x 173.0554pt.
  [6 <./Screenshot 2026-09-17 1656441.png> <./Screenshot 2026-09-17 165941.png>]
 <Screenshot 2026-09-17 171211.png, id=43, 273.02pt x 238.39063pt>
 File: Screenshot 2026-09-17 171211.png Graphic file (type png)
 <use Screenshot 2026-09-17 171211.png>
 Package pdftex.def Info: Screenshot 2026-09-17 171211.png  used on input line 1
-89.
+93.
 (pdftex.def)             Requested size: 226.48395pt x 197.75867pt.
 
-Overfull \hbox (12.4175pt too wide) in paragraph at lines 196--197
+Overfull \hbox (12.4175pt too wide) in paragraph at lines 200--201
 []\OT1/cmr/m/n/12 Naopak z kart^^Sezsk^^Sych sou^^Tradnic $(\OML/cmm/m/it/12 a;
  b\OT1/cmr/m/n/12 )$ bodu $\OML/cmm/m/it/12 P \OMS/cmsy/m/n/12 6\OT1/cmr/m/n/12
  = (0\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 0)$ do-sta-neme jeho pol^^Sarn^^S^^P so
@@ -344,7 +469,7 @@ u^^Tradnice
  []
 
 [7 <./Screenshot 2026-09-17 171211.png>]
-Overfull \hbox (8.47781pt too wide) in paragraph at lines 234--234
+Overfull \hbox (8.47781pt too wide) in paragraph at lines 238--238
 []\OT1/cmr/bx/n/17.28 Geometrick^^Sy v^^Syznam n^^Sasoben^^S^^P kom-plexn^^S^^P
 ch ^^Tc^^S^^Psel 
  []
@@ -353,10 +478,10 @@ ch ^^Tc^^S^^Psel
 File: Screenshot 2026-09-17 194335.png Graphic file (type png)
 <use Screenshot 2026-09-17 194335.png>
 Package pdftex.def Info: Screenshot 2026-09-17 194335.png  used on input line 2
-49.
+53.
 (pdftex.def)             Requested size: 226.48395pt x 245.49991pt.
 [8]
-Overfull \hbox (13.57689pt too wide) detected at line 289
+Overfull \hbox (13.57689pt too wide) detected at line 293
 []
  []
 
@@ -365,13 +490,13 @@ Overfull \hbox (13.57689pt too wide) detected at line 289
 File: Screenshot 2026-09-17 203534.png Graphic file (type png)
 <use Screenshot 2026-09-17 203534.png>
 Package pdftex.def Info: Screenshot 2026-09-17 203534.png  used on input line 3
-12.
+16.
 (pdftex.def)             Requested size: 226.48395pt x 226.48361pt.
 <Screenshot 2026-09-17 204153.png, id=57, 236.38312pt x 244.41313pt>
 File: Screenshot 2026-09-17 204153.png Graphic file (type png)
 <use Screenshot 2026-09-17 204153.png>
 Package pdftex.def Info: Screenshot 2026-09-17 204153.png  used on input line 3
-21.
+25.
 (pdftex.def)             Requested size: 226.48395pt x 234.18266pt.
  [10 <./Screenshot 2026-09-17 203534.png>] [11 <./Screenshot 2026-09-17 204153.
 png>]
@@ -379,36 +504,58 @@ png>]
 File: Screenshot 2026-09-18 205004.png Graphic file (type png)
 <use Screenshot 2026-09-18 205004.png>
 Package pdftex.def Info: Screenshot 2026-09-18 205004.png  used on input line 4
-00.
+04.
 (pdftex.def)             Requested size: 181.18439pt x 170.26347pt.
- [12 <./Screenshot 2026-09-18 205004.png>] [13] (./m52.skripta.aux)
+ [12 <./Screenshot 2026-09-18 205004.png>]
+
+Package tasks Warning: The width of `label-width' is too small on line 426.
+(tasks)                Please set it at least to 11.0971pt.
+
+
+Package tasks Warning: The width of `label-width' is too small on line 426.
+(tasks)                Please set it at least to 11.0971pt.
+
+
+Package tasks Warning: The width of `label-width' is too small on line 435.
+(tasks)                Please set it at least to 11.0971pt.
+
+
+Package tasks Warning: The width of `label-width' is too small on line 435.
+(tasks)                Please set it at least to 11.0971pt.
+
+[13] (./m52.skripta.aux)
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-08-10>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 4695 strings out of 467099
- 76569 string characters out of 5412502
- 510535 words of memory out of 5000000
- 33993 multiletter control sequences out of 15000+600000
- 635473 words of font info for 68 fonts, out of 8000000 for 9000
+ 5540 strings out of 467099
+ 94193 string characters out of 5412502
+ 533488 words of memory out of 5000000
+ 34811 multiletter control sequences out of 15000+600000
+ 637670 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,11n,65p,1049b,241s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/tex
-live/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2026
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2026/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2026/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr8.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmsy10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.p
-fb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><c:/te
-xlive/2026/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><c:/texliv
-e/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on m52.skripta.pdf (14 pages, 1076023 bytes).
+ 59i,11n,65p,1049b,483s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/tex
+live/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2026
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2026/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2026/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2026/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr12.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17
+.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/te
+xlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2026/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2026/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/texlive/2026/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmti12.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts
+/symbols/msbm10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfr
+m1200.pfb>
+Output written on m52.skripta.pdf (14 pages, 1132160 bytes).
 PDF statistics:
- 123 PDF objects out of 1000 (max. 8388607)
- 68 compressed objects within 1 object stream
+ 148 PDF objects out of 1000 (max. 8388607)
+ 83 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
